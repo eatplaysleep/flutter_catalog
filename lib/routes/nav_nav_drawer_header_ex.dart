@@ -53,7 +53,7 @@ class NavDrawerExample extends MyRoute {
     );
     return Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.amber,
+//          backgroundColor: Colors.amber,
           title: Text('Drawer example'),
         ),
         body: Center(

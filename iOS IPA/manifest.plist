@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://mgmresorts-my.sharepoint.com/:u:/p/486146/EeMvrY-d04xNgtJ1tu6W8OsB1r9ACnJMF0PyjUCd-TeVmw?e=DxCHlt&download=1</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://media.licdn.com/dms/image/C4D03AQGEEEFuYMmHfg/profile-displayphoto-shrink_200_200/0?e=1557360000&amp;v=beta&amp;t=LueF9r8MzSlqfwA6VOKfcilmMMWC80KoWdCqNr3hjcY</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/245/square_256/flutterlogo.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.mgmresorts.flutterCatalog</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>Runner</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -16,7 +16,7 @@ import './routes/appbar_search_ex.dart';
 import './routes/appbar_sliver_appbar_ex.dart';
 import './routes/firebase_chatroom_ex.dart';
 import './routes/firebase_login_ex.dart';
-import './routes/firebase_mlkit_ex.dart';
+//import './routes/firebase_mlkit_ex.dart';
 import './routes/firebase_vote_ex.dart';
 import './routes/layouts_container_padding_center_ex.dart';
 import './routes/layouts_expanded_ex.dart';
@@ -249,7 +249,7 @@ const kMyAppRoutesStructure = <MyRouteGroup>[
       FirebaseLoginExample(),
       FirebaseVoteExample(),
       FirebaseChatroomExample(),
-      FirebaseMLKitExample(),
+//      FirebaseMLKitExample(),
     ],
   ),
 ];

@@ -44,11 +44,10 @@ const _TABS = <Widget>[
     child: ListTile(
       leading: Icon(
         Icons.phone_android,
-        color: Colors.white,
+//        color: Colors.white,
       ),
       title: Text(
         'Preview',
-        style: TextStyle(color: Colors.white),
       ),
     ),
   ),
@@ -58,11 +57,11 @@ const _TABS = <Widget>[
     child: ListTile(
       leading: Icon(
         Icons.code,
-        color: Colors.white,
+//        color: Colors.white,
       ),
       title: Text(
         'Code',
-        style: TextStyle(color: Colors.white),
+//        style: TextStyle(color: Colors.white),
       ),
     ),
   ),

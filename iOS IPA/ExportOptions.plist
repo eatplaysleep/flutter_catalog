@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileBitcode</key>
+	<false/>
+	<key>destination</key>
+	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://github.com/X-Wei/flutter_catalog</string>
+		<key>displayImageURL</key>
+		<string>https://media.licdn.com/dms/image/C4D03AQGEEEFuYMmHfg/profile-displayphoto-shrink_200_200/0?e=1557360000&amp;v=beta&amp;t=LueF9r8MzSlqfwA6VOKfcilmMMWC80KoWdCqNr3hjcY</string>
+		<key>fullSizeImageURL</key>
+		<string>https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/245/square_256/flutterlogo.png</string>
+	</dict>
+	<key>method</key>
+	<string>development</string>
+	<key>signingStyle</key>
+	<string>automatic</string>
+	<key>stripSwiftSymbols</key>
+	<true/>
+	<key>teamID</key>
+	<string>XJB69BJ7ZR</string>
+	<key>thinning</key>
+	<string>&lt;none&gt;</string>
+</dict>
+</plist>

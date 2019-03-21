@@ -39,9 +39,9 @@ class _TextFieldDemoState extends State<_TextFieldDemo> {
       decoration: InputDecoration(
         labelText: 'Enter an integer:',
         errorText: _inputIsValid ? null : 'Please enter an integer!',
-        border: OutlineInputBorder(
-          borderRadius: BorderRadius.all(Radius.circular(10.0)),
-        ),
+//        border: OutlineInputBorder(
+//          borderRadius: BorderRadius.all(Radius.circular(10.0)),
+//        ),
       ),
       onSubmitted: (String val) {
         Fluttertoast.showToast(
